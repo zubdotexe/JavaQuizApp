@@ -1,0 +1,250 @@
+[
+  {
+    "answerkey": "4",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "It aims to prevent the defect. So, this is a preventive approach",
+    "option 4": "It is a validation process",
+    "question": "Which statement is true for QA?",
+    "option 1": "It is responsible for STLC",
+    "option 2": "It aims to identify and improve the defects. So, this is a corrective approach"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "It is a part of quality assurance",
+    "option 4": "It's a part of static testing",
+    "question": "What is not true for verification?",
+    "option 1": "It's a part of software Testing",
+    "option 2": "It can't be automated"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "It takes place first and includes the checking for documentation, code etc.",
+    "option 4": "It's a part of dynamic testing",
+    "question": "What is not true for validation?",
+    "option 1": "It's a part of software Testing",
+    "option 2": "It can be automated"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "It makes sure the results are what you expected",
+    "option 4": "It is a process to create the deliverables",
+    "question": "Which statement represents QC?",
+    "option 1": "It aims to prevent the defect. So, this is a preventive approach",
+    "option 2": "It is responsible for SDLC"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Human beings make errors (mistakes)",
+    "option 4": "Errors lead to defects",
+    "question": "Which statement is false?",
+    "option 1": "When a software makes mistakes in test environment it is failure",
+    "option 2": "Defects accepted by developers are called bugs"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Exhaustive testing is impossible",
+    "option 4": "Testing is context dependent",
+    "question": "Which is not a testing principle?",
+    "option 1": "Testing shows the presence, not the absence of defects",
+    "option 2": "Building confidence in the quality of test object"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Test integration",
+    "option 4": "Test environment setup",
+    "question": "Which is not a part of STLC?",
+    "option 1": "Test closure",
+    "option 2": "Requirement analysis"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Test execution",
+    "option 4": "Test design",
+    "question": "What is a test activity?",
+    "option 1": "Test closure",
+    "option 2": "Requirement analysis"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Test execution",
+    "option 4": "Test design",
+    "question": "What is an SDLC part?",
+    "option 1": "Deployment",
+    "option 2": "Test closure"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Extremen Programming",
+    "option 4": "Test Driven Development",
+    "question": "What is not an Agile practice?",
+    "option 1": "Deployment Driven Development",
+    "option 2": "Kanban"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "BDD",
+    "option 4": "TDD",
+    "question": "Which approach follows the given\/When\/Then format?",
+    "option 1": "ATDD",
+    "option 2": "FDD"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Plan the sprint",
+    "option 4": "Retrospect",
+    "question": "What is not an activity of Agile",
+    "option 1": "Repeat",
+    "option 2": "Inquire"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Some independence: By testers from outside the author's team but within organization",
+    "option 4": "High independence: By the author",
+    "question": "What is the correct one?",
+    "option 1": "Very high independence: By testers from outside the organization",
+    "option 2": "No independence: By the author's peers from the same team"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "4",
+    "option 4": "3",
+    "question": "Based on techniques how many testing types are there?",
+    "option 1": "2",
+    "option 2": "5"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Find defects through failures",
+    "option 4": "Does not require executing the code",
+    "question": "What is wrong for static testing?",
+    "option 1": "Can be applied to non-executable work products",
+    "option 2": "Measures quality characteristics not dependent on executing code"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Can only be applied to executable work products",
+    "option 4": "Requires the execution of code",
+    "question": "What is wrong for dynamic testing?",
+    "option 1": "Can be applied to non-executable work products",
+    "option 2": "Measures quality characteristics dependent on executing code"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Sanity Testing",
+    "option 4": "Ad-hoc Testing",
+    "question": "What is not a functional testing?",
+    "option 1": "Gorilla Testing",
+    "option 2": "Benchmark Testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Smoke Testing",
+    "option 4": "Usability Testing",
+    "question": "What is not a non-functional testing?",
+    "option 1": "Cross browser\/device Testing",
+    "option 2": "Security Testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "For every software development activity, there is a corresponding test activity, so that all development activities are subject to quality control.",
+    "option 4": "Different test levels have specific and different test objectives, which allows for testing to be appropriately comprehensive while avoiding redundancy.",
+    "question": "What is not a good testing practice?",
+    "option 1": "Testing at a specific level starts during the development phase for that level. This way, testing follows the test early principle.",
+    "option 2": "Testers review documents drafts at the end. This helps to be confident."
+  },
+  {
+    "answerkey": "3",
+    "option 3": "2",
+    "option 4": "3",
+    "question": "How many parts can Integration testing level be divided into?",
+    "option 1": "None",
+    "option 2": "4"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Unit",
+    "option 4": "Integration",
+    "question": "What is not a Test Pyramid level?",
+    "option 1": "System",
+    "option 2": "End to end"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Technology facing, Support the team",
+    "option 4": "Business facing, Technology facing",
+    "question": "What is the wrong Test Quadrant combination?",
+    "option 1": "Business facing, Critique the product",
+    "option 2": "Technology facing, Crituqe the product"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Blackbox tesing",
+    "option 4": "Exploratory testing",
+    "question": "What is not a testing technique?",
+    "option 1": "Experienced based testing",
+    "option 2": "Exploratory testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing, State Transition Testing",
+    "option 4": "Equivalence Partitioning, Boundary Value Analysis, Decision Coverage, State Transition Testing",
+    "question": "Which combination is correct for the Blackbox Testing technique?",
+    "option 1": "Equivalence Partitioning, Statement Coverage, Decision Table Testing, State Transition Testing",
+    "option 2": "Data Validation, Boundary Value Analysis, Decision Table Testing, State Transition Testing"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Error guessing",
+    "option 4": "Exploratory testing",
+    "question": "What is not an Experienced-based Testing technique?",
+    "option 1": "State Transition testing",
+    "option 2": "Checklist-based testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Lightweight documentation are the crucial part of exploratory testing.",
+    "option 4": "The test session is usually followed by a debriefing that involves a discussion between the tester and stakeholders interested in the test results of the test session.",
+    "question": "Which statement is false for Exploratory Testing?",
+    "option 1": "Exploratory testing is sometimes conducted using session-based testing to structure the testing.",
+    "option 2": "The tester uses an acceptance criteria file containing test objectives to guide the testing."
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Risk based prioritization",
+    "option 4": "Decision based prioritization",
+    "question": "Which is not a test case prioritization?",
+    "option 1": "Requirement based prioritization",
+    "option 2": "Coverage based prioritization"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "1",
+    "option 4": "3",
+    "question": "How many ways are there to write Acceptance Criteria?",
+    "option 1": "2",
+    "option 2": "4"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "4",
+    "option 4": "3",
+    "question": "Based on the High and Low factors, how many states does a bug have",
+    "option 1": "2",
+    "option 2": "1"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Integrate",
+    "option 4": "Open",
+    "question": "What is not related to Bug Life Cycle?",
+    "option 1": "Retest",
+    "option 2": "Deferred"
+  }
+]
