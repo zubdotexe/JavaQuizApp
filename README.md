@@ -6,7 +6,7 @@
 * JDK 11
 * IntelliJ IDEA
 * Gradle
-* json-simple
+* Library: json-simple
 
 ## How to setup the environment?  
 * Copy library name from the Gradle section on https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple/1.1.1 and paste it in build.gradle file in the project folder
