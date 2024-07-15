@@ -16,3 +16,6 @@
 ## How to run?  
 Run through the IDE  
 
+## Output:  
+#### Demonstration video  
+https://github.com/zubdotexe/JavaQuizApp/blob/main/demonstration_video.mp4
